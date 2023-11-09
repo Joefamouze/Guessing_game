@@ -1,2 +1,2 @@
 # Guessing_game
-Guessing game
+A repository created for different experimental developments
